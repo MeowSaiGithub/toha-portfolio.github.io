@@ -35,6 +35,26 @@ accomplishments:
   courseOverview:
   certificateURL: "files/certificate-element-of-ai.png"
 
+- name: "Docker Training Course for the Absolute Beginner"
+  organization:
+    name: KodeKloud
+    url: "https://kodekloud.com/"
+  courseOverview: "Docker is an open platform for developers and sysadmins to build, ship, and run distributed applications, whether on laptops, data center VMs, or the cloud."
+  certificateURL: "https://learn.kodekloud.com/user/certificate/612ac873-fe2e-4479-82f6-bb27cfe3d1a0"
+
+- name: "Learning Linux Basics Course & Labs"
+  organization:
+    name: KodeKloud
+    url: "https://kodekloud.com/"
+  courseOverview:
+  certificateURL: "https://learn.kodekloud.com/user/certificate/a52ad114-2740-4dda-b5ce-d844f6172c77"
+
+- name: "Docker - SWARM | SERVICES | STACKS - Hands-on"
+  organization:
+    name: KodeKloud
+    url: "https://kodekloud.com/"
+  courseOverview:
+  certificateURL: "https://learn.kodekloud.com/user/certificate/796bf573-7e73-4873-bb09-bf50da430d92"
 #- name: Machine Learning
 #  timeline: "Jun 2020 - Jan 2021"
 #  organization:
