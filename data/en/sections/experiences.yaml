@@ -11,6 +11,27 @@ section:
 # Your experiences
 experiences:
 - company:
+      name: xFusionCorp
+      url: "https://kodekloud-engineer.com/"
+      location: Singapore (Remote)
+      logo: /images/sections/experiences/xfusioncorp_logo.jpg
+      # Can optionally show a different logo for dark theme
+      # darkLogo: /images/sections/experiences/company1.jpg
+      # company overview
+      overview: xFusionCorp is a fictional organization created as part of the KodeKloud Engineer program.
+  positions:
+    - designation: System Administrator
+      start: September 2025
+      # don't provide end date if you are currently working there. It will be replaced by "Present"
+      # end: Dec 2020
+      # give some points about what was your responsibilities at the company.
+#      responsibilities:
+#        - Developed new features and maintained the codebase for a web application's backend.
+#        - Led the successful migration of a core application from Java to Go, enhancing efficiency and scalability.
+#        - Managed teams of developers and collaborated with cross-functional teams to deliver high-quality software solutions.
+#        - Participated in code reviews and provided constructive feedback to fellow developers, ensuring code quality and adherence to best practices.
+
+- company:
     name: Global Private Technology Co.
 #    url: "https://www.example.com"
     location: Philippines (Remote)

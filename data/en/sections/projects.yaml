@@ -49,11 +49,24 @@ projects:
 
 - name: School Management System
   logo: /images/sections/skills/go.png
-  role: BackendDeveloper
+  role: Backend Developer
 #  repo: https://github.com/MeowSaiGithub/csguard # If your project is a public repo on GitHub, then provide this link. it will show star count.
   summary:  This project is a collection of micro-services with event-driven architecture. Some of Microservices worked on this project are Chat, Email, File, Domain, Posts, Notification, Authentication and Authorization services.
   tags: ["professional", "golang", "microservice","AWS", "kubernetes", "ci/cd", "security","devops"]
 
+- name: Podcast Backend System
+  logo: /images/sections/skills/go.png
+  role: Backend Developer
+  #  repo: https://github.com/MeowSaiGithub/csguard # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  summary: The core backend system for allowing users to create and manage their podcasts along with posts, comments, and likes.
+  tags: ["professional", "golang", "microservice"]
+
+- name: Novel Backend System
+  logo: /images/sections/skills/go.png
+  role: Backend Developer
+  #  repo: https://github.com/MeowSaiGithub/csguard # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  summary: The core backend system for allowing users to upload and manage their novels along with distribution.
+  tags: ["professional", "golang", "microservice"]
 #- name: Tensorflow
 #  logo: /images/sections/projects/tensorflow.png
 #  role: Developer

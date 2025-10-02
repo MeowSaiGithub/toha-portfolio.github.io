@@ -7,15 +7,19 @@ image: "images/author/me.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "kaungmyatsakm@gmail.com"
-  phone: "+95 9790422824"
+#  phone: "+95 9790422824"
   github: https://github.com/MeowSaiGithub
   linkedin: https://www.linkedin.com/in/sai-aung-kaung-myat-9b5095229/
+  whatsapp:
+    url: "https://wa.me/959790422824"
+    icon: "fab fa-whatsapp"
+    text: "WhatsApp"
 #  researchgate: john-doe
 
 # some summary about what you do
 summary:
   - I am a Developer
-  - I am a Devops
+  - I am a Devops Engineer
   - I love servers
   - I work on open-source projects
   - I love to work with some fun projects

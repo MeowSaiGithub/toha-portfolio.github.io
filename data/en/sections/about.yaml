@@ -32,9 +32,9 @@ socialLinks:
   icon: "fab fa-github"
   url: "https://github.com/MeowSaiGithub"
 
-#- name: Stackoverflow
-#  icon: "fab fa-stack-overflow"
-#  url: "#"
+- name: WhatsApp
+  icon: "fab fa-whatsapp"
+  url: "https://wa.me/959790422824"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
@@ -61,7 +61,7 @@ socialLinks:
 # For example, you can put link for your resume.
 resourceLinks:
 - title: "My Resume"
-  url: "files/sai-aung-kaung-myat_cloud_developer.pdf"
+  url: "files/sai-aung-kaung-myat_cloud_engineer.pdf"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.

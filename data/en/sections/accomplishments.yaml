@@ -12,7 +12,7 @@ section:
 # Your accomplishments
 accomplishments:
 - name: Certified Amazon Web Services (AWS) Solution Architect Associate
-  timeline: "July 2025 - Present"
+  timeline: "July 2025"
   organization:
     name: Amazon Web Services Training and Certification
     url: https://aws.amazon.com/training/
@@ -20,15 +20,31 @@ accomplishments:
   certificateURL: "https://www.credly.com/badges/194376b6-aba7-44b2-9ff4-100949bb20a5/public_url"
 
 - name: Neo4j Certified Professional
-  timeline: " June 2023 - Present"
+  timeline: "June 2023"
   organization:
     name: Neo4j Graph Academy
     url: https://graphacademy.neo4j.com/
   courseOverview:
   certificateURL: "https://graphacademy.neo4j.com/c/16abee8b-f786-4a62-8b89-3c0242b1f86b/"
 
+- name: "Docker - Level 1"
+  timeline: "September 2025"
+  organization:
+    name: KodeKloud Engineer
+    url: "https://engineer.kodekloud.com/"
+  courseOverview:
+  certificateURL: "https://engineer.kodekloud.com/certificate-verification/67d5ccc1-1a71-4ca7-871c-79599d832219"
+
+- name: "Kubernetes - Level 1"
+  timeline: "September 2025"
+  organization:
+    name: KodeKloud
+    url: "https://kodekloud.com/"
+  courseOverview:
+  certificateURL: "https://engineer.kodekloud.com/certificate-verification/4a2afab7-195b-472c-b40a-e2a94bdf7aaa"
+
 - name: Element of AI
-  timeline: "July 2025 - Present"
+  timeline: "July 2025"
   organization:
     name: Element of AI
     url: https://course.elementsofai.com/
@@ -36,6 +52,7 @@ accomplishments:
   certificateURL: "files/certificate-element-of-ai.png"
 
 - name: "Docker Training Course for the Absolute Beginner"
+  timeline: "September 2025"
   organization:
     name: KodeKloud
     url: "https://kodekloud.com/"
@@ -43,6 +60,7 @@ accomplishments:
   certificateURL: "https://learn.kodekloud.com/user/certificate/612ac873-fe2e-4479-82f6-bb27cfe3d1a0"
 
 - name: "Learning Linux Basics Course & Labs"
+  timeline: "September 2025"
   organization:
     name: KodeKloud
     url: "https://kodekloud.com/"
@@ -50,6 +68,7 @@ accomplishments:
   certificateURL: "https://learn.kodekloud.com/user/certificate/a52ad114-2740-4dda-b5ce-d844f6172c77"
 
 - name: "Docker - SWARM | SERVICES | STACKS - Hands-on"
+  timeline: "September 2025"
   organization:
     name: KodeKloud
     url: "https://kodekloud.com/"
