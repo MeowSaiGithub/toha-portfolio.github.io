@@ -61,7 +61,7 @@ socialLinks:
 # For example, you can put link for your resume.
 resourceLinks:
 - title: "My Resume"
-  url: "files/sai-aung-kaung-myat_cloud_engineer.pdf"
+  url: "files/sai-aung-kaung-myat_cloud-engineer.pdf"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
@@ -71,6 +71,11 @@ badges:
   name: Certified Solution Architect Associate
   url: "https://www.credly.com/badges/194376b6-aba7-44b2-9ff4-100949bb20a5/public_url"
   badge: "files/aws-cert.png"
+
+- type: certification
+  name: "CKA: Certified Kubernetes Administrator"
+  url: "https://www.credly.com/badges/fe2b85f5-d46e-4904-93cd-2bd70451a923/public_url"
+  badge: "files/cka.png"
 
 #- type: certification
 #  name: Istio and IBM Cloud Kubernetes Service
