@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer/Cloud Developer
+designation: Software Engineer/Cloud Engineer
 # your company information
 #company:
 #  name: Example Co.
@@ -73,6 +73,11 @@ badges:
   url: "https://www.credly.com/badges/fe2b85f5-d46e-4904-93cd-2bd70451a923/public_url"
   badge: "files/cka.png"
 
+- type: certification
+  name: "CKAD: Certified Kubernetes Application Developer"
+  url: "https://www.credly.com/badges/93907f9a-c775-444c-ae01-6ec5aff999ac/public_url"
+  badge: "files/ckad.png"
+
 #- type: certification
 #  name: Istio and IBM Cloud Kubernetes Service
 #  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
@@ -83,10 +88,10 @@ badges:
 #  url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
 #  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
 
-#- type: soft-skill-indicator
-#  name: Leadership
-#  percentage: 85
-#  color: blue
+- type: soft-skill-indicator
+  name: Leadership
+  percentage: 85
+  color: blue
 
 - type: soft-skill-indicator
   name: Team Work

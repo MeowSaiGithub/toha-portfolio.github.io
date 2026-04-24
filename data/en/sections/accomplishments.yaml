@@ -11,6 +11,14 @@ section:
 
 # Your accomplishments
 accomplishments:
+- name: "CKAD: Certified Kubernetes Application Developer"
+  timeline: "April 2026"
+  organization:
+    name: The Linux Foundation
+    url: https://www.credly.com/organizations/the-linux-foundation/badges
+  courseOverview:
+  certificateURL: "https://www.credly.com/badges/93907f9a-c775-444c-ae01-6ec5aff999ac/public_url"
+
 - name: "CKA: Certified Kubernetes Administrator"
   timeline: "March 2026"
   organization:
@@ -18,7 +26,6 @@ accomplishments:
     url: https://www.credly.com/organizations/the-linux-foundation/badges
   courseOverview:
   certificateURL: "https://www.credly.com/badges/fe2b85f5-d46e-4904-93cd-2bd70451a923/public_url"
-
 
 - name: Certified Amazon Web Services (AWS) Solution Architect Associate
   timeline: "July 2025"
