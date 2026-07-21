@@ -19,6 +19,13 @@ buttons:
 
 # your projects
 projects:
+- name: Task-Queuer
+  logo: /images/sections/skills/go.png
+  role: Developer
+  repo: https://github.com/MeowSaiGithub/task-queuer # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  summary: Simple master + worker node task queues using event distribution architecture with complete deployment strategy
+  tags: ["personal", "golang", "redis","kubernetes","docker"]
+
 - name: Dynamic Form Telegram Bot
   logo: /images/sections/skills/go.png
   role: Developer
