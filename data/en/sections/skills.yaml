@@ -122,11 +122,17 @@ skills:
   categories: ["container", "devops"]
   url: "https://aquasecurity.github.io/trivy/"
 
-#- name: Prometheus
-#  logo: /images/sections/skills/prometheus.png
-#  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
-#  categories: ["basic"]
-#  url: "https://prometheus.io/"
+- name: Prometheus
+  logo: /images/sections/skills/prometheus.png
+  summary: "Capable of setup, configure Prometheus metrics."
+  categories: ["basic"]
+  url: "https://prometheus.io/"
+
+- name: Ansible
+  logo: /images/sections/skills/ansible.png
+  summary: "Completed the KodeKloud Ansible course. Capable of writing playbooks, managing inventory, working with roles, variables, and templates, and automating configuration tasks."
+  categories: ["basic", "devops"]
+  url: "https://www.ansible.com/"
 
 #- name: Linux
 #  logo: /images/sections/skills/linux.png

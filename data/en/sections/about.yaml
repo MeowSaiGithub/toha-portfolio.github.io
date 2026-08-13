@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer/Cloud Engineer
+designation: Software Engineer/Cloud-native DevOps Engineer
 # your company information
 #company:
 #  name: Example Co.
@@ -19,7 +19,11 @@ designation: Software Engineer/Cloud Engineer
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'Experienced Go (Golang) Specialist Developer dedicated to crafting robust software solutions and cutting-edge architecture. Specialized in microservices and cloud-native applications, my goal is to elevate expertise, lead effective project management, and stay abreast of new technologies for designing innovative solutions.'
+summary: |
+  Architecture-driven Backend & Cloud-native DevOps Engineer specializing in Go (Golang) microservices and 
+  cloud-native architecture. Expert in optimizing infrastructure and container workloads, backed by CKA, CKAD, CKS
+  and AWS SAA certifications. Proven track record of executing critical language migrations, automating deployment
+  pipelines, and designing scalable event-driven systems.
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -64,6 +68,11 @@ resourceLinks:
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
 - type: certification
+  name: Certified Kubernetes Security Specialist
+  url: "https://www.credly.com/badges/1a8049d3-fa29-4cfd-8f7e-29cd11225987/public_url"
+  badge: "files/cks.png"
+
+- type: certification
   name: Certified Solution Architect Associate
   url: "https://www.credly.com/badges/194376b6-aba7-44b2-9ff4-100949bb20a5/public_url"
   badge: "files/aws-cert.png"
@@ -88,20 +97,20 @@ badges:
 #  url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
 #  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
 
-- type: soft-skill-indicator
-  name: Leadership
-  percentage: 85
-  color: blue
-
-- type: soft-skill-indicator
-  name: Team Work
-  percentage: 85
-  color: yellow
-
-- type: soft-skill-indicator
-  name: Problem Solving
-  percentage: 85
-  color: orange
+#- type: soft-skill-indicator
+#  name: Leadership
+#  percentage: 85
+#  color: blue
+#
+#- type: soft-skill-indicator
+#  name: Team Work
+#  percentage: 85
+#  color: yellow
+#
+#- type: soft-skill-indicator
+#  name: Problem Solving
+#  percentage: 85
+#  color: orange
 
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator
