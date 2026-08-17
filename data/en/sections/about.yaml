@@ -69,7 +69,7 @@ resourceLinks:
 badges:
 - type: certification
   name: Certified Kubernetes Security Specialist
-  url: "https://www.credly.com/badges/1a8049d3-fa29-4cfd-8f7e-29cd11225987/public_url"
+#  url: "https://www.credly.com/badges/1a8049d3-fa29-4cfd-8f7e-29cd11225987/public_url"
   badge: "files/cks.png"
 
 - type: certification

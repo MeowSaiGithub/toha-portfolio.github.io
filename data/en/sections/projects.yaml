@@ -19,6 +19,13 @@ buttons:
 
 # your projects
 projects:
+- name: Data-Resync
+  logo: /images/sections/skills/go.png
+  role: Developer
+  repo: https://github.com/MeowSaiGithub/data-resync # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  summary: A Go CLI for chunked data synchronization like CAS system and rebuild workflows. It uses FastCDC to split files into content-addressed chunks, stores them under a manifest, and can rebuild a target tree from an old manifest + new manifest + chunk source.
+  tags: ["personal", "golang"]
+
 - name: Task-Queuer
   logo: /images/sections/skills/go.png
   role: Developer
